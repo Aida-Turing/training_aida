@@ -5,5 +5,6 @@ These are some nice rivers:
 * Thames 
 * Moon River 
 * Severn
+* Senne
 
 
